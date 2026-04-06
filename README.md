@@ -1,6 +1,6 @@
 # Churn Risk Prediction Service (DevOps + MLOps Architecture)
 
-This project implements a **Churn Risk Prediction microservice** built using FastAPI and integrated with a complete **DevOps lifecycle** including containerization, CI/CD, monitoring, and API observability
+This project implements a **Churn Risk Prediction microservice** built using FastAPI and integrated with a complete **DevOps lifecycle** including containerization, CI/CD, monitoring, and API observability.
 
 The system predicts **customer churn risk** using contract type and support ticket history derived from the Telco Customer Churn dataset.
 
